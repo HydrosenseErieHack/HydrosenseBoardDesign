@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "/home/hingle/GitHub Repositories/HydrosenseBoardDesign/PhotoresistorBoard/PhotoresistorBoard.sch")
-    (date "Sat 22 Apr 2017 10:14:14 PM EDT")
+    (date "Sun 23 Apr 2017 06:24:51 PM EDT")
     (tool "Eeschema 4.0.6-e0-6349~53~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
